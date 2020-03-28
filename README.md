@@ -1,6 +1,6 @@
 # snglsDAO-design
 
-The FIGMA file <https://github.com/SingularDTV/snglsDAO-design/blob/master/snglsDAO.fig> above in the current breakdown on the design and UI/UX for the DAO interated into the snglsDAO.io website.
+The [FIGMA file] (https://github.com/SingularDTV/snglsDAO-design/blob/master/snglsDAO.fig) above in the current breakdown on the design and UI/UX for the DAO interated into the snglsDAO.io website.
 
 This is gonna be built on top of DAOstack's Client Library: https://github.com/daostack/client
 
